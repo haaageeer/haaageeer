@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hager Mahmoud
 
 Full Stack .NET Developer | Computer Science Student | Problem Solver with C++
@@ -88,3 +89,6 @@ Key Features:
 - LinkedIn: [Hager Mahmoud](https://www.linkedin.com/in/hager-mahmoud-abdelhamid)
 - Email: haaageeer318@gmail.com
 - GitHub: [haaageeer](https://github.com/haaageeer)
+=======
+
+>>>>>>> 957722a509fda75f53cebb86eec9d44311e7c07b
