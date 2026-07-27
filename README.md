@@ -1,16 +1,20 @@
-# Hager Mahmoud
+# Hager Mahmoud Abdulhamid
 
-Full Stack .NET Developer | Computer Science Student | Problem Solver with C++
+Full Stack .NET Developer | Computer Science Student | Competitive Programming with C++
 
 ## About
 
-I am Hager Mahmoud, a Computer Science student and Full Stack .NET Developer dedicated to building efficient, scalable, and well-structured software solutions. With a strong foundation in Object-Oriented Programming (OOP) and Data Structures using C++, I specialize in C# and the .NET ecosystem (ASP.NET Core MVC, Entity Framework Core, SQL Server) to create secure and robust backend systems. I am passionate about writing clean code, solving complex logical challenges, and continuously learning new technologies.
+Computer Science student,Competitive Programmer and Full Stack .NET Developer passionate about building scalable, secure, and user-focused software solutions. Technical expertise includes C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, and Python, supported by a strong foundation in Object-Oriented Programming (OOP), Data Structures, Algorithms, and software engineering principles.
+
+Passionate about solving complex problems, writing clean and maintainable code, and transforming ideas into real-world applications. Experience in competitive programming and mentoring students has strengthened analytical thinking, communication, teamwork, and problem-solving skills.
+
+Committed to continuous learning and professional growth, with a strong interest in software engineering, full-stack development. Dedicated to building reliable, high-quality software, tackling real-world challenges, and contributing to innovative and collaborative development teams.
 
 ## Skills
 
 ### Backend & Languages
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Informational?style=for-the-badge&color=2563EB)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Informational?style=for-the-badge&color=2563EB)
 
 ### Web Development
 
@@ -32,8 +36,8 @@ Key Features:
 
 - Complete product catalog categorized by demographics (Men, Women, Kids) with dynamic rating metrics and variants.
 - Session-based interactive shopping cart and customized checkout flow with simulated payments (COD and card validation).
-- Gym Advertisement and Class/Offer Scheduler where partner gyms can publish timetables and subscription options.
-- Admin review queue to verify gym submissions, plus an interactive dashboard tracking real-time sales and order stats.
+- Club Advertisement and Class/Offer Scheduler where partner clubs can publish timetables and subscription options.
+- Admin review queue to verify club submissions, plus an interactive dashboard tracking real-time sales and order stats.
 - Front-end supports dynamic theme switching (Light/Dark mode) with Bootstrap 5.3 and jQuery.
 
 |                     Sportify Overview                      |                       Home Page                        |                         Login Page                          |
